@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/vulcan_light</color>
+    <color name="colorPrimaryDark">@color/vulcan</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="vulcan_light">#4e505b</color>
+    <color name="vulcan">#363843</color>
+
+    <color name="lights_late_grey">#7D8390</color>
+    <color name="hacienda">#9D7A1D</color>
+    <color name="buddha_gold">#B48F18</color>
+    <color name="grey_chateau">#9C9EA3</color>
+    <color name="buddhagold1">#C39A1C</color>
+    <color name="buddhagold2">#FFE2B321</color>
+
+    <color name="state_normal">@color/buddhagold1</color>
+    <color name="state_pressed">@color/buddha_gold</color>
+    <color name="state_focused">@color/buddhagold2</color>
+</resources>
